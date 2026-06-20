@@ -41,7 +41,7 @@ portfolio/
 ![Contact Section](demo/contact-page.png)
 
 ## Running Locally
-1. Clone the repo: `git clone https://github.com/Sudharshika/portfolio.git`
+1. Clone the repo: `git clone https://github.com/Sudharshika/personal-portfolio.git`
 2. Open `index.html` in your browser — no build step needed
 
 ## What I'd Improve Next
