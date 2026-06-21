@@ -6,14 +6,14 @@ A personal portfolio website showcasing my projects, skills, and contact info.
 
 ## Project Structure
 ```
-portfolio/
+personal-portfolio/
 ├── index.html
 ├── style.css
 ├── README.md
 ├── .gitignore
 ├── images/
-│   ├── main-img.png
-│   └── pic.png
+│   ├── main-img.jpg
+│   └── pic.jpg
 └── demo/
     ├── home-page.png
     ├── about-page.png
