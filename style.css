@@ -27,7 +27,7 @@ header {
 .logo {
     font-size: 30px;
     font-weight: bold;
-    color: lightcoral;
+    color: #d9534f; 
 }
 
 nav {
@@ -110,7 +110,6 @@ span {
 .about {
     display: flex;
     padding: 60px 120px;
-    /* background-color: aliceblue; */
 }
 
 h2 {
@@ -225,14 +224,11 @@ h3 {
 }
 
 #three {
- background-color: rgb(248, 145, 179);
+ background-color: rgb(29 78 216);
 }
 
 #github-icon {
-  /* float: right; */
   height: 40px;
-  /* margin-top: 30px; */
-  /* margin-right: 0px; */
   cursor: pointer;
   margin-bottom: -15px;
 }
@@ -248,11 +244,11 @@ h3 {
 #stack {
     margin-top: 10px;
     margin-left: 10px;
-    color: rgb(168 85 247);
+    color: rgb(126 34 206);
 }
 
 span {
-    color: rgb(59 130 246);
+    color: rgb(29 78 216); 
     margin-right: 5px;
 }
 
